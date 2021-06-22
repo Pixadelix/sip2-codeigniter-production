@@ -15,3 +15,10 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+
+*-report.html
+report.html
+report2.html
+goaccess.service
+webstat.sh
+/assets/upload
